@@ -1,0 +1,6 @@
+demo\security_cas\config\SecurityConfiguration.class
+demo\security_cas\config\service\CustomUserDetailsService$1.class
+demo\security_cas\Application.class
+demo\security_cas\config\controller\DemoController.class
+demo\security_cas\config\service\AppUserDetails.class
+demo\security_cas\config\service\CustomUserDetailsService.class
