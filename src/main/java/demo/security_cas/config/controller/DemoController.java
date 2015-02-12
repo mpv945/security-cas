@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoController {
 	
-	@RequestMapping(value = "/secure")
+	@RequestMapping(value = "/secure/request")
 	public @ResponseBody String get() throws TicketValidationException {
 
 		return "HELLO";
